@@ -14,7 +14,7 @@
     name: Ian Philips  # Be used at blog posts' author.
     first_name: Ian  # Be used at index page about me section.
     last_name: Philips  # Be used at index page about me section.
-    avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+    avatar: /static/assets/img/landing/avatar.jpeg  # upload your avatar at directory and edit it.
     github_username: ianphilips  # Leave blank if you don't have now
     linkedin_id: ian-philips-b4b05567 # Leave blank if you don't have now
     #facebook_username: jiakunnj  # Leave blank if you don't have now
