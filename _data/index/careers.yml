@@ -13,7 +13,6 @@
     detail: Computer Vision Software Developer
     i18n: company_a_job
   icon: fa-plus-square
-
 - name:
     detail: Virtual Pedals
     i18n: company_b
@@ -27,8 +26,7 @@
     detail: iOS Mobile Engineer
     i18n: company_b_job
   icon: fa-plus-square
-
-  - name:
+- name:
     detail: Blue Alloy Labs
     i18n: company_b
   desc:
@@ -41,8 +39,7 @@
     detail: Software Developer
     i18n: company_b_job
   icon: fa-plus-square
-
- - name:
+- name:
     detail: Moncrief Intern and Researcher at UT Computational Visualization Center
     i18n: company_b
   desc:
