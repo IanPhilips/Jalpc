@@ -1,29 +1,62 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: SaferPool
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I designed, tested, and trained computer vision models in Python, TensorFlow, and OpenCV for the SaferPool prototype.
+     I also designed and implemented the website with HTML5, CSS, Adobe Illustrator, and Python-Django.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: May 2017
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Computer Vision Software Developer
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Virtual Pedals
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I designed and implemented a virtual guitar effects pedal app in iOS using Swift, Objective-C, OpenCV, and PD.
+    It' published under the name VPedals on the App Store.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: December 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: iOS Mobile Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+  - name:
+    detail: Blue Alloy Labs
+    i18n: company_b
+  desc:
+    detail: I worked on several augmented reality prototypes for sale to companies.
+    These included Siv, an augmented reality iOS app that overlaid nutritional information animations on products in grocery stores, and
+    Assembly, an iOS app that overlaid animated furniture assembly steps onto individual furniture pieces.
+    i18n: company_b_desc
+  date:
+    detail: September 2016
+    i18n: company_b_date
+  job:
+    detail: Software Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+ - name:
+    detail: Moncrief Intern and Researcher at UT Computational Visualization Center
+    i18n: company_b
+  desc:
+    detail: Studied and conducted parallel computing experiments with UT's Stampede supercomputer on the 3-D structure of the Zika virus.
+    Contributed to the ongoing 3-D mapping Skull Atlas project.
+    i18n: company_b_desc
+  date:
+    detail: April 2016
+    i18n: company_b_date
+  job:
+    detail: Software Developer
     i18n: company_b_job
   icon: fa-plus-square
