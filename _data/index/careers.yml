@@ -4,7 +4,7 @@
     detail: SaferPool
     i18n: company_a
   desc:
-    detail: I designed, tested, and trained computer vision models in Python, TensorFlow, and OpenCV for the SaferPool prototype. I also designed and implemented the website with HTML5, CSS, Adobe Illustrator, and Python-Django.
+    detail: I designed, tested, and trained computer vision models in Python, TensorFlow, and OpenCV for the SaferPool prototype. I also designed and implemented the [HaveASaferpool.com](https://www.haveasaferpool.com) website with HTML5, CSS, Adobe Illustrator, and Python-Django.
     i18n: company_a_desc
   date:
     detail: May 2017
