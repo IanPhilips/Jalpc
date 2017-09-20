@@ -4,7 +4,7 @@
     detail: SaferPool
     i18n: company_a
   desc:
-    detail: I designed, tested, and trained computer vision models in Python, TensorFlow, and OpenCV for the SaferPool Smart Camera. I also designed and implemented the <a href="https://www.haveasaferpool.com"> HaveASaferpool.com </a>website with HTML5, CSS, Adobe Illustrator, and Python-Django.
+    detail: I designed, tested, and trained computer vision models in Python, TensorFlow, and OpenCV for the SaferPool Smart Camera. I created an iOS (using Swift) app to receive the server-side alerts. I also designed and implemented the <a href="https://www.haveasaferpool.com"> HaveASaferpool.com </a>website with HTML5, CSS, Adobe Illustrator, and Python-Django.
     i18n: company_a_desc
   date:
     detail: May 2017
@@ -40,10 +40,10 @@
     i18n: company_b_job
   icon: fa-plus-square
 - name:
-    detail: Moncrief Intern and Researcher at UT Computational Visualization Center
+    detail: Moncrief Intern and Researcher at University of Texas Computational Visualization Center
     i18n: company_b
   desc:
-    detail: Studied and conducted parallel computing experiments with UT's Stampede supercomputer on the 3-D structure of the Zika virus. Contributed to the ongoing 3-D mapping Skull Atlas project.
+    detail: Studied and conducted parallel computing experiments with University of Texas's Stampede supercomputer on the 3-D structure of the Zika virus. Contributed to the ongoing 3-D mapping Skull Atlas project.
     i18n: company_b_desc
   date:
     detail: April 2016

@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Swift, Python, Objective-C, Tensorflow, OpenCV, GitHub,  HTML5, Java, C#
-percentage: 100, 100, 80, 70, 95, 90, 70, 70, 80
+aspects: Swift, Python, Objective-C, Django, Tensorflow, OpenCV, GitHub,  HTML5, Java, C#
+percentage: 100, 100, 80, 85,  70, 95, 90, 70, 70, 80
