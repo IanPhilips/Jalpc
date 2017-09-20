@@ -7,7 +7,7 @@
 #  repo: Jalpc
   url: www.virtualpedals.com
   img: /static/assets/img/landing/VPedals.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Vpedals is an iOS app (iPad or iPhone) that lets users add delay, reverb, and distortion to any sound in real time. Users can draw an area on their camera feed that toggle effects when a foot enters and leaves the area.
 
 - name: SaferPool
   i18n: cpython
@@ -15,11 +15,11 @@
   url: www.haveasaferpool.com
   #repo: cpython
   img: /static/assets/img/landing/saferpool.jpg
-  desc: The SaferPool Smart Camera detects people in your pool area and sends alerts to you via the SaferPool app. You can draw the bounds of the pool area using the app.
+  desc: The SaferPool Smart Camera detects persons in a user's pool area and sends alerts via the SaferPool app. Users can draw the bounds of the pool area using the app. Users can also add faces via the app that automatically deactivate the alarm.
 
 - name: Dlib
   i18n: google
   gh_user: davisking
   repo: dlib
   img: /static/assets/img/landing/dlib.png
-  desc: A toolkit for making real world machine learning and data analysis applications in C++
+  desc: A toolkit for making real world machine learning and data analysis applications in C++ and Python.
