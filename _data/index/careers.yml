@@ -65,7 +65,6 @@
     detail: Student at University of Texas at Austin
     i18n: company_b_job
   icon: fa-plus-square
-
 - name:
     detail: B.S. in Food Science focused on Public Health
     i18n: company_b
