@@ -10,7 +10,7 @@
     detail: May 2017
     i18n: company_a_date
   job:
-    detail: Computer Vision Software Developer
+    detail: CV Software Developer
     i18n: company_a_job
   icon: fa-plus-square
 - name:
@@ -36,7 +36,7 @@
     detail: September 2016
     i18n: company_b_date
   job:
-    detail: Software Developer
+    detail: CV/AR Software Developer
     i18n: company_b_job
   icon: fa-plus-square
 - name:
