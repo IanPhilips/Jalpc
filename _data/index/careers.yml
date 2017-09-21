@@ -52,3 +52,30 @@
     detail: Software Developer
     i18n: company_b_job
   icon: fa-plus-square
+- name:
+    detail: 2 years in Computational Biology
+    i18n: company_b
+  desc:
+    detail: GPA: 3.97
+    i18n: company_b_desc
+  date:
+    detail: December 2014
+    i18n: company_b_date
+  job:
+    detail: Student at University of Texas at Austin
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: B.S. in Food Science focused on Public Health
+    i18n: company_b
+  desc:
+    detail: GPA: 3.91
+    i18n: company_b_desc
+  date:
+    detail: August 2010
+    i18n: company_b_date
+  job:
+    detail: Student at Virginia Tech
+    i18n: company_b_job
+  icon: fa-plus-square
