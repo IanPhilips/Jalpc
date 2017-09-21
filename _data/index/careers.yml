@@ -56,7 +56,7 @@
     detail: 2 years in Computational Biology
     i18n: company_b
   desc:
-    detail: GPA: 3.97
+    detail: 3.97 GPA
     i18n: company_b_desc
   date:
     detail: December 2014
@@ -69,7 +69,7 @@
     detail: B.S. in Food Science focused on Public Health
     i18n: company_b
   desc:
-    detail: GPA: 3.91
+    detail: 3.91 GPA
     i18n: company_b_desc
   date:
     detail: August 2010
