@@ -10,7 +10,7 @@
     detail: May 2017
     i18n: company_a_date
   job:
-    detail: CV Software Developer
+    detail: CV Software Developer at Blue Alloy Labs
     i18n: company_a_job
   icon: fa-plus-square
 - name:
@@ -53,7 +53,7 @@
     i18n: company_b_job
   icon: fa-plus-square
 - name:
-    detail: 2 years in Computational Biology
+    detail: 2 years in Computer Science
     i18n: company_b
   desc:
     detail: 3.97 GPA
