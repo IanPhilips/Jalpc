@@ -12,7 +12,7 @@
   job:
     detail: CV Software Developer at Blue Alloy Labs
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-briefcase
 - name:
     detail: Virtual Pedals
     i18n: company_b
@@ -25,7 +25,7 @@
   job:
     detail: iOS Mobile Engineer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-briefcase
 - name:
     detail: Blue Alloy Labs
     i18n: company_b
@@ -38,7 +38,7 @@
   job:
     detail: CV/AR Software Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-briefcase
 - name:
     detail: Moncrief Intern and Researcher at University of Texas Computational Visualization Center
     i18n: company_b
@@ -51,7 +51,7 @@
   job:
     detail: Software Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-briefcase
 - name:
     detail: 2 years in Computer Science
     i18n: company_b
@@ -64,7 +64,7 @@
   job:
     detail: Student at University of Texas at Austin
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-graduation-cap
 - name:
     detail: B.S. in Food Science focused on Public Health
     i18n: company_b
@@ -77,4 +77,4 @@
   job:
     detail: Student at Virginia Tech
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-graduation-cap
