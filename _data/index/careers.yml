@@ -14,6 +14,19 @@
     i18n: company_a_job
   icon: fa-briefcase
 - name:
+    detail: Blue Alloy Labs
+    i18n: company_b
+  desc:
+    detail: I worked on several augmented reality prototypes for sale to companies. These included Siv, an augmented reality iOS app that overlaid nutritional information animations on products in grocery stores, and Assembly, an iOS app that overlaid animated furniture assembly steps onto individual furniture pieces.
+    i18n: company_b_desc
+  date:
+    detail: January 2017
+    i18n: company_b_date
+  job:
+    detail: CV/AR Software Developer
+    i18n: company_b_job
+  icon: fa-briefcase
+- name:
     detail: Virtual Pedals
     i18n: company_b
   desc:
@@ -24,19 +37,6 @@
     i18n: company_b_date
   job:
     detail: iOS Mobile Engineer
-    i18n: company_b_job
-  icon: fa-briefcase
-- name:
-    detail: Blue Alloy Labs
-    i18n: company_b
-  desc:
-    detail: I worked on several augmented reality prototypes for sale to companies. These included Siv, an augmented reality iOS app that overlaid nutritional information animations on products in grocery stores, and Assembly, an iOS app that overlaid animated furniture assembly steps onto individual furniture pieces.
-    i18n: company_b_desc
-  date:
-    detail: September 2016
-    i18n: company_b_date
-  job:
-    detail: CV/AR Software Developer
     i18n: company_b_job
   icon: fa-briefcase
 - name:
