@@ -1,6 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Eyeflite
+    i18n: company_a
+  desc:
+    detail: Built VR app Eyeflite Ava (https://www.eyeflite.io/), its multi-service backend in GO, an android library to port Geckoview (Firefox) to Unity, and a speech to text iOS app with aPython backend.
+    i18n: company_a_desc
+  date:
+    detail: Janurary 2017
+    i18n: company_a_date
+  job:
+    detail: CTO, Co-Founder
+    i18n: company_a_job
+  icon: fa-briefcase
+- name:
     detail: SaferPool
     i18n: company_a
   desc:
@@ -10,20 +23,20 @@
     detail: May 2017
     i18n: company_a_date
   job:
-    detail: CV Software Developer at Blue Alloy Labs
+    detail: CV Developer at Blue Alloy Labs
     i18n: company_a_job
   icon: fa-briefcase
 - name:
     detail: Blue Alloy Labs
     i18n: company_b
   desc:
-    detail: I worked on several augmented reality prototypes for sale to companies. These included Siv, an augmented reality iOS app that overlaid nutritional information animations on products in grocery stores, and Assembly, an iOS app that overlaid animated furniture assembly steps onto individual furniture pieces.
+    detail: I worked on several augmented reality prototypes for sale to companies. These included Siv, an augmented reality iOS app that overlaid nutritional information animations on products in grocery stores, and Assembly, an iOS app that overlaid animated furniture assembly steps onto individual furniture pieces. Attended Boomtown Accelerator with cohort 10.
     i18n: company_b_desc
   date:
     detail: January 2017
     i18n: company_b_date
   job:
-    detail: CV/AR Software Developer
+    detail: AR Software Developer
     i18n: company_b_job
   icon: fa-briefcase
 - name:
