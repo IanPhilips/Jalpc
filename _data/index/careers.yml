@@ -4,7 +4,7 @@
     detail: Eyeflite
     i18n: company_a
   desc:
-    detail: Built VR app Eyeflite Ava (https://www.eyeflite.io/), its multi-service backend in GO, an android library to port Geckoview (Firefox) to Unity, and a speech to text iOS app with aPython backend.
+    detail: Built VR app Eyeflite Ava (https://www.eyeflite.io/), its multi-service backend in GO, an android library to port Geckoview (Firefox) to Unity, and a speech to text iOS app with a Python backend. Attended Boomtown Accelerator with cohort 10.
     i18n: company_a_desc
   date:
     detail: Janurary 2017
